@@ -1,0 +1,15 @@
+{    
+    "name": "Trondheim",
+    "code": "TRD",
+    "thumbnailBbox": [10.3525,63.4199,10.4332,63.4443],
+    "description": "Trondheim, a relatively large city in Northern Norway that only has 1 tram line...",
+    "population": 300000,
+    "initialViewState": {
+        "zoom": 13.5,
+        "latitude": 63.4106,
+        "longitude": 10.3951,
+        "bearing": 0
+    },
+    "creator": "Valdotorium",
+    "version": "1.0.0"
+}

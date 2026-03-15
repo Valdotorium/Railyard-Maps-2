@@ -1,0 +1,16 @@
+{
+    "name": "Singapore",
+    "code": "SIN",
+    "thumbnailBbox": [103.7353,1.2375,103.9605,1.4023],
+    "description": "A city-state in Asia that apparently loves three-letter abbreviations for transport infrastructure. Its MRT is very impressive.",
+    "population": 6000000,
+    "initialViewState": {
+        "zoom": 13.5,
+        "latitude": 1.29,
+        "longitude": 103.8,
+        "bearing": 0
+    },
+    "creator": "Valdotorium",
+    "version": "1.0.0"
+            
+}

@@ -1,0 +1,15 @@
+{  
+    "name": "Warsaw",
+    "thumbnailBbox": [20.8541,52.1676,21.1768,52.3078],
+    "code": "WAW",
+    "description": "Polands capital and largest city. It deserves more than 2 metro lines.",
+    "population": 1860000,
+    "initialViewState": {
+        "zoom": 13.5,
+        "latitude": 52.2297,
+        "longitude": 21.0122,
+        "bearing": 0
+    },
+    "creator": "Valdotorium",
+    "version": "1.0.0"
+}
