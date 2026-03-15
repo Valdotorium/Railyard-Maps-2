@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "versions": [
+    {
+      "version": "1.0.0",
+      "game_version": ">=1.0.0",
+      "date": "2026-03-15",
+      "changelog": "Railyard Release.",
+      "download": "https://github.com/Valdotorium/Railyard-Maps-2/releases/tag/v0.1.0/WAW.zip",
+      "sha256": "9ff1e2365abbcb1cf58740fc19dcf19b34a940b2747710d126d353817315e77c"
+    }
+  ]
+}
