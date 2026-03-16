@@ -1,0 +1,1 @@
+for z in *.zip; do zip -d "$z" "__MACOSX/*" "*.DS_Store"; done
