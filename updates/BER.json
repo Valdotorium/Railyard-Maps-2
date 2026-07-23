@@ -5,9 +5,9 @@
       "version": "1.0.0",
       "game_version": ">=1.0.0",
       "date": "2026-03-15",
-      "changelog": "Railyard Release.",
-      "download": "https://github.com/Valdotorium/Railyard-Maps-2/releases/download/v0.1.1/BER.zip",
-      "sha256": "fbd63062283da4b746b79798e6909818abe776fb2be7b6aac96289970f9fa68c"
+      "changelog": "1.4 compatible!",
+      "download": "https://github.com/Valdotorium/Railyard-Maps-2/releases/download/v0.1.2/BER.zip",
+      "sha256": "f5e7823ddbac04b6b72c0f7062b714faa50fe4ede41388b01ff29f7a420d0207"
     }
   ]
 }
