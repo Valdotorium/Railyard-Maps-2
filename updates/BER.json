@@ -2,9 +2,9 @@
   "schema_version": 1,
   "versions": [
     {
-      "version": "1.0.0",
-      "game_version": ">=1.0.0",
-      "date": "2026-03-15",
+      "version": "1.1.0",
+      "game_version": ">=1.4.0",
+      "date": "2026-07-23",
       "changelog": "1.4 compatible!",
       "download": "https://github.com/Valdotorium/Railyard-Maps-2/releases/download/v0.1.2/BER.zip",
       "sha256": "f5e7823ddbac04b6b72c0f7062b714faa50fe4ede41388b01ff29f7a420d0207"
