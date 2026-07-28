@@ -8,6 +8,14 @@
       "changelog": "Railyard Release.",
       "download": "https://github.com/Valdotorium/Railyard-Maps-2/releases/download/v0.1.1/SIN.zip",
       "sha256": "12878f405a49d47e51726d0a80144fa89fa41d92707b94557e8141ab2f94d88a"
+    },
+    {
+      "version": "1.1.0",
+      "game_version": ">=1.4.0",
+      "date": "2026-07-28",
+      "changelog": "Fixed for 1.4 using srznk2pd8r-png's tool on GitHub.",
+      "download": "https://github.com/Valdotorium/Railyard-Maps-2/releases/download/v0.1.4/SIN.zip",
+      "sha256": "c7f06de14611459fcde13e3b7a3037ec5c8c1680efbd37621037752fee7afa17"
     }
   ]
 }
